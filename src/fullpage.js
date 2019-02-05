@@ -142,7 +142,9 @@ class FullPage extends Component {
     <scroll-container>
 
     </scroll-container>
+git tag -a v1.0.1 -m "msg"
 
+git push --tags
 
 
     https://www.digitalocean.com/community/tutorials/como-construir-uma-aplicacao-node-js-com-o-docker-pt
