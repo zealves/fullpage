@@ -147,6 +147,12 @@ git tag -a v1.0.1 -m "msg"
 git push --tags
 
 
+https://codemyui.com/image-multiple-hotspot-activates-hover/
+
+
+https://codemyui.com/image-hover-magnifying-glass-zoom-effect-colour/
+
+
     https://www.digitalocean.com/community/tutorials/como-construir-uma-aplicacao-node-js-com-o-docker-pt
     */
 

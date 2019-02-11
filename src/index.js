@@ -17,10 +17,14 @@ class App extends Component {
             <div className="App">
                 <FullPage>
                     <div orientation={'vertical'} className={'fullpage'} style={{ backgroundColor: 'seagreen' }}>
-                        <h1>1</h1>
+                        <div>
+                            <h1 className={'animatedTxt'}>First Page</h1>
+                        </div>
                     </div>
                     <div orientation={'horizontal'} className={'fullpage'} style={{ backgroundColor: 'red' }}>
-                        <h1>2</h1>
+                        <div>
+                            <h1 className={'animatedTxt'}>Second Page</h1>
+                        </div>
                     </div>
                     <div orientation={'horizontal'} className={'fullpage'} style={{ backgroundColor: 'yellow' }}>
                         <h1>3</h1>
